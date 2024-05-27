@@ -10,9 +10,14 @@
 
 
 
+## Documents et Documentation
 
-Lien vers le repo GitHub : https://github.com/CarolePignat/La-Panthere-initial
+* [Rapport d'analyse](https://drive.google.com/file/d/1IRrnfayhBkfEN2sK4pcchNFvSfpFx4TD/view?usp=drive_link)
+* Rapport d'optimisation : [](https://drive.google.com/file/d/10xc-Dtx6gEpIOwfDGgj8lwl_zu0aCrOo/view?usp=drive_link)
+* Check-list pour accessibilité mobile : https://developer.mozilla.org/fr/docs/Web/Accessibility/Mobile_accessibility_checklist
 
-Lien vers le site initial : https://carolepignat.github.io/La-Panthere-initial/
+## Liens
 
-Lien vers le site optimisé : https://carolepignat.github.io/La-Panthere/
+* Lien vers le repo GitHub : https://github.com/CarolePignat/La-Panthere-initial
+* Lien vers le site initial : https://carolepignat.github.io/La-Panthere-initial/
+* Lien vers le site optimisé : https://carolepignat.github.io/La-Panthere/
